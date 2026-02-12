@@ -45,3 +45,110 @@ This project focuses on analyzing customer purchasing behaviour to uncover patte
 - Compare subscription vs non-subscription revenue
 - Analyze purchasing trends over time
 - The dashboard is interactive with filters for category, gender, and subscription status.
+
+ ## Project Insights – Customer Behavior Analysis
+  Overall Performance Metrics
+
+- Total Customers: 3.9K
+- Average Purchase Amount: $59.76
+- Average Review Rating: 3.75 / 5
+
+ Insight:
+
+- The average order value (~$60) indicates moderate spending behavior.
+- The average rating of 3.75 suggests customer satisfaction is good but has room for improvement.
+- With nearly 4,000 customers, the dataset provides a strong base for segmentation and behavioral analysis.
+
+Subscription Behavior
+
+- 73% Customers: Subscribed
+- 27% Customers: Non-Subscribed
+
+ Insight:
+
+- A large majority of customers are subscription-based.
+- Subscription customers are likely contributing consistently to revenue.
+- This indicates that loyalty or membership programs are effective.
+
+ Business Opportunity:
+
+- Improve targeting for the 27% non-subscribed segment.
+- Offer incentives (discounts, loyalty points) to convert non-subscribers.
+
+ Revenue by Category
+
+
+- Clothing – Highest Revenue (~0.1M)
+- Accessories
+- Footwear
+- Outerwear – Lowest Revenue
+
+ Insight:
+
+- Clothing is the primary revenue driver.
+- Accessories perform strongly as secondary purchases.
+- Outerwear has the lowest contribution, possibly due to seasonal demand.
+
+ Business Opportunity:
+
+- Increase marketing budget for Clothing & Accessories.
+- Bundle low-performing categories (e.g., Outerwear) with high-demand items.
+- Introduce seasonal promotions.
+
+ Sales by Category
+
+- Sales volume follows the same pattern as revenue:
+- Clothing has the highest sales volume.
+- Outerwear has the lowest.
+
+ Insight:
+
+- Category performance is consistent in both revenue and sales.
+- No major price-based distortion — high sales = high revenue.
+
+ Revenue by Age Group
+
+
+- Young Adults (~60K+ revenue)
+- Middle-aged
+- Adult
+- Senior
+
+ Insight:
+
+- Young Adults are the most valuable segment.
+- Middle-aged customers are also strong contributors.
+- Seniors generate relatively lower revenue but still contribute consistently.
+
+6️ Sales by Age Group
+
+- Young Adults lead in total purchases (~1000 sales).
+- Middle-aged and Seniors follow closely.
+- Adults slightly lower in comparison.
+
+ Insight:
+
+- Younger demographics purchase more frequently.
+- Marketing campaigns targeting young adults can significantly boost growth.
+- Seniors may respond better to personalized offers.
+
+ Key Strategic Insights
+
+- A small number of segments (Young Adults + Clothing category) generate the majority of revenue.
+- Subscription model is highly effective and drives customer loyalty.
+- Product category performance is stable and predictable.
+- There is room to improve customer satisfaction (rating 3.75).
+
+## Final Conclusion
+
+- This end-to-end customer behavior analysis reveals that:
+- Young Adult customers and the Clothing category are the primary revenue drivers.
+- Subscription-based customers form the core customer base (73%) and are critical for recurring revenue.
+- The business demonstrates stable purchasing patterns with moderate average spending ($59.76 per order).
+- Customer satisfaction is good but not excellent, indicating potential for service or product quality improvement.
+- Overall, the company has a strong foundation in customer retention and category performance. By:
+- Improving customer experience,
+- Increasing subscription conversions,
+- Promoting high-performing categories,
+- And optimizing low-performing segments,
+- the business can significantly increase revenue, customer loyalty, and long-term growth.
