@@ -27,3 +27,21 @@ This project focuses on analyzing customer purchasing behaviour to uncover patte
 ## Dashboard
 
 <img width="1743" height="737" alt="Customer Behaviour" src="https://github.com/surya999610/Customer-Behaviour-End-to-End-Project/blob/main/Customer%20Behaviour.png" />
+
+
+## Tools & Technologies Used
+
+- Python (Pandas, Matplotlib) – Data loading, cleaning & EDA
+- MySQL Server – Data storage and SQL analysisPower BI – Interactive dashboard development
+- Jupyter Notebook – Analysis workflow
+- GitHub – Version control
+
+## Dashboard Highlights
+
+ The Power BI dashboard enables stakeholders to:
+- Monitor overall sales performance
+- Identify high-value customer segments
+- Track product performance
+- Compare subscription vs non-subscription revenue
+- Analyze purchasing trends over time
+- The dashboard is interactive with filters for category, gender, and subscription status.
